@@ -1,0 +1,4 @@
+cloud_provider,cloud_region,location,location_override,location_source,location_type,latitude,longitude,electricity_maps_zone,watt_time_region
+Google Cloud,asia-east1,Tokyo,,OpenStreetMap,city,,,,
+Microsoft Azure,australiacentral,Australia Central,,Azure API,,-35.307500,149.124400,,
+Amazon Web Services,us-east-1,US East (N. Virginia),Richmond,OpenStreetMap,city,,,,
